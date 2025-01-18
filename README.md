@@ -44,7 +44,7 @@ A web application designed to help users manage their plants effectively, provid
 
 - Your Name: [Anit Shrestha]
 - Email: [anitshrestha101@gmail.com]
-- Project Link: [Project URL](https://projecturl.com)
+- Project Link: [Project URL](https://anitcodes.github.io/planto/)
 
 ## Note
 ---------------
